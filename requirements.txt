@@ -1,0 +1,5 @@
+# tkinter
+streamlit 
+google-generativeai 
+streamlit-audiorecorder
+streamlit-audiorec
